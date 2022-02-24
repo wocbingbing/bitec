@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\21925\source\repos\strlen\strlen\源.c(7,2): warning C4047: “!=”:“int”与“void *”的间接级别不同
+C:\Users\21925\source\repos\strlen\strlen\源.c(16): warning C4716: “my_strcpy”: 必须返回一个值
+  strlen.vcxproj -> C:\Users\21925\source\repos\strlen\x64\Debug\strlen.exe
